@@ -20,7 +20,7 @@ The labeling of the dataset was done with the ROBOFLOW site. First of all, the r
 
 # Here is the training process in Google Colab
 
-![Training](https://github.com/busolbuse/Model-recognizing-numbers-in-the-hand-sign-with-YOLOv4/blob/main/Ekran%20Al%C4%B1nt%C4%B1s%C4%B14.PNG)
+![training](https://github.com/busolbuse/Model-recognizing-numbers-in-the-hand-sign-with-YOLOv4/blob/main/Ekran%20Al%C4%B1nt%C4%B1s%C4%B14.PNG)
 
 # Start phase
 
