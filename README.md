@@ -22,7 +22,7 @@ The labeling of the dataset was done with the ROBOFLOW site. First of all, the r
 
 After the labeling process, I trained the model on Google Colab and then I wrote a Python code to detect and write down the significant numbers from the hand gestures made to the camera.
 
-![start](https://github.com/busolbuse/Model-recognizing-numbers-in-the-hand-sign-with-YOLOv4/blob/main/test.jpeg)
+![start](https://github.com/busolbuse/Model-recognizing-numbers-in-the-hand-sign-with-YOLOv4/blob/main/test2.jpeg)
 
 # Requirements:
 :octocat: Python (3.x)
