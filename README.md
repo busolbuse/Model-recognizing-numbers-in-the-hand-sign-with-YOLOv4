@@ -14,7 +14,31 @@ The model training took about 4 hours with 950 photos. This is a very small numb
 
 # Labeling of the dataset
 
-The labeling of the dataset was done with the ROBOFLOW site. First of all, the received dataset was divided into folders by classifying them according to numbers. Then the folders were labeled one by one as 6 classes. 
+The labeling of the dataset was done with the ROBOFLOW site. First of all, the received dataset was divided into folders by classifying them according to numbers. Then the folders were labeled one by one as 6 classes. Labeling was done with "https://roboflow.com/"
 
 ![labeling](https://github.com/busolbuse/Model-recognizing-numbers-in-the-hand-sign-with-YOLOv4/blob/main/image-grid.png)
+
+# Start phase
+
+After the labeling process, I trained the model on Google Colab and then I wrote a Python code to detect and write down the significant numbers from the hand gestures made to the camera.
+
+![start](https://github.com/busolbuse/Model-recognizing-numbers-in-the-hand-sign-with-YOLOv4/blob/main/test.jpeg)
+
+# Requirements:
+:octocat: Python (3.x)
+
+:octocat: OpenCV (cv2)
+
+:octocat: Google Colab Environment
+
+:octocat: Data set
+
+# Contributions: 
+I am waiting for the feedback of my project, I hope it worked for you.
+I wish you many YOLO days :D
+
+# Author:  
+:octocat: Buse Berren ÜNAL
+
+
 
